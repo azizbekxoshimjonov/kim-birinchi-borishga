@@ -1,0 +1,106 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.son {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+    input {
+        margin-left: 20px;
+        margin-right: 20px;
+        width: 200px;
+        height: 30px;
+        margin-top: 24px;
+        border-radius: 25px;
+        padding-left: 20px;
+    }
+
+    button {
+        width: 90px;
+        height: 30px;
+        margin-top: 24px;
+        border-radius: 15px;
+        border: none;
+        background-color: green;
+        color: white;
+
+
+    }
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+
+}
+
+.piyoda {
+    width: 150px;
+    height: 230px;
+    border: 1px solid green;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 25px;
+    img{
+        width: 100px;
+    }
+
+}
+
+.valisped {
+    width: 150px;
+    height: 230px;
+    border: 1px solid green;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 25px;
+    img{
+        width: 100px;
+        margin-top: 5px;
+    }
+    h2{
+        margin-top: 50px;
+    }
+
+}
+
+.moshina {
+    width: 150px;
+    height: 230px;
+    border: 1px solid green;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 25px;
+    img{
+        width: 100px;
+    }
+  
+
+}
+
+.samolyot {
+    width: 150px;
+    height: 230px;
+    border: 1px solid green;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 25px;
+    img{
+        width: 100px;
+    }
+    
+
+}
