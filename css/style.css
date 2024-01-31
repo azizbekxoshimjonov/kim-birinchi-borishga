@@ -104,3 +104,38 @@
     
 
 }
+.piyoda:hover{ animation: pulse 2s infinite;}
+@keyframes pulse {
+    0% , 100% {transform:scale(1);}
+    50% {transform: scale(1.2);}
+}
+.valisped:hover{ animation: pulse 2s infinite;}
+@keyframes pulse {
+    0% , 100% {transform:scale(1);}
+    50% {transform: scale(1.2);}
+}
+.moshina:hover{ animation: pulse 2s infinite;}
+@keyframes pulse {
+    0% , 100% {transform:scale(1);}
+    50% {transform: scale(1.2);}
+}
+.samolyot:hover{ animation: pulse 2s infinite;}
+@keyframes pulse {
+    0% , 100% {transform:scale(1);}
+    50% {transform: scale(1.2);}
+}
+button:hover{ animation: pulse 2s infinite;}
+@keyframes pulse {
+    0% , 100% {transform:scale(1);}
+    50% {transform: scale(1.2);}
+}
+
+
+
+
+
+
+
+
+
+
